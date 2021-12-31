@@ -15,7 +15,6 @@
 <br />
 <br />
 
-
 ### I'm learning these languages
 <img src="https://docs.microsoft.com/de-de/windows/images/csharp-logo.png" width="25" height="25"> </img>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="25" height="25"> </img>
@@ -32,10 +31,7 @@
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
-
 <br />
-
-
  
  <details>
 <summary>:bulb: Github Stats</summary>
