@@ -46,4 +46,4 @@
 
  
  [instagram]: https://www.instagram.com/yunusemrekocak_7
- [twitter]: 
+ [twitter]: https://twitter.com/
