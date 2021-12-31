@@ -16,10 +16,10 @@
 <br />
 
 ### I'm learning these languages
-<img src="https://docs.microsoft.com/de-de/windows/images/csharp-logo.png" width="25" height="25"> </img>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="25" height="25"> </img>
-<img src="https://mpng.subpng.com/20180420/xwe/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be146fc2.8807141415242446700837.jpg" width="25" height="25"> </img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25" height="25"> </img>
+<img src="https://docs.microsoft.com/de-de/windows/images/csharp-logo.png" width="30" height="30"> </img>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="30" height="30"> </img>
+<img src="https://mpng.subpng.com/20180420/xwe/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be146fc2.8807141415242446700837.jpg" width="30" height="30"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="30" height="30"> </img>
 
 <br />
 
