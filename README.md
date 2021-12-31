@@ -45,5 +45,5 @@
 
 
  
- [instagram]:
+ [instagram]: https://www.instagram.com/yunusemrekocak_7
  [twitter]: 
