@@ -22,7 +22,7 @@
 <img src="https://mpng.subpng.com/20180420/xwe/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be146fc2.8807141415242446700837.jpg" width="30" height="30"> </img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="30" height="30"> </img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="30" height="30"> </img>
-<img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="30" height="30"> </img>
+<img src="[https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)" width="30" height="30"> </img>
 <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="30" height="30"> </img>
 <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="30" height="30"> </img>
 
