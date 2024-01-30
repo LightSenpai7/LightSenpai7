@@ -3,7 +3,7 @@
   ### Hi there, I'm Yunus Emre Koçak. :grin:
 
 
- ## Computer Programming | Student
+ ## Computer Programming 
 
  <font color="Black"> Hmm... `<code />` </font>
 
