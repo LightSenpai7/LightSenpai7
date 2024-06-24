@@ -9,8 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimsahy" height="30" width="40" /></a>
-<a href="https://instagram.com/yunusemrekocak_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimsahy.cpp" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/yunusemrekocak_7" rel="nofollow"><img src="https://camo.githubusercontent.com/f41da31bf426102ea1df9c083e9a316abd3af1ffb908fd8c9bd7be651d4d4541/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="https://www.x.com" rel="nofollow"><img src="https://camo.githubusercontent.com/e97449103b99db365dca0ff65af4a8b068a831136dc0a156239a71dff4223dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+ 
 </p>
  
 <h3 align="left">Languages and Tools:</h3>
